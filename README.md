@@ -155,8 +155,9 @@ No known bugs at this time.
 
 ## Authors
 Emmanuel Ijioma - [Github](https://github.com/Gods-son) / [Twitter](https://twitter.com/ijiomaone)  
-Toriqatullah Sanni - [Github](https://github.com/Tory-15) / [Twitter](https://twitter.com/)
+Toriqatullah Sanni - [Github](https://github.com/Tory-15) / [Twitter](https://twitter.com/Toryrosalie)
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection
+
